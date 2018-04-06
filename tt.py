@@ -1,2 +1,2 @@
-print("itttt")
+print("t")
 
